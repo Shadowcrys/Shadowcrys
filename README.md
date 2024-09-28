@@ -1,6 +1,6 @@
 ### Hi there 👋, Im Cristopher Mardones
 #### Back end developer with interest on learning Cyber Security
-![Desarrollador Back end con interés en aprender ciber seguridad](https://cdn.discordapp.com/attachments/935944199029813299/1289393892894183444/images.jpg?ex=66f8a923&is=66f757a3&hm=fb2481a36ad3a5045e9ba7187d4764aa0ebb2320a13c59f3a9ecd6bdff4fd4cb&)
+![Desarrollador Back end con interés en aprender ciber seguridad](https://cdn.discordapp.com/attachments/935944199029813299/1289395187877023835/python_Successfully_installed_in_the_System_python_funny_shortsvideo_trending_comedy_status.gif?ex=66f8aa58&is=66f758d8&hm=09509408f334349efa698ff9d54558eb94aaa10ebfddff984dbe11073f53bda4&)
 
 
 Computer Engineer with a solid background in application development and systems administration, supported by practical experience in real-world projects. I excel in a proactive approach to problem-solving and have a proven ability to work effectively in teams. I am seeking to join a dynamic organization where I can apply my knowledge and technical skills to contribute to the team's success and take on new professional challenges.
