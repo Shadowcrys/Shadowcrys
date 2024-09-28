@@ -1,6 +1,6 @@
 ### Hi there 👋, Soy Cristopher Mardones
 #### Desarrollador Back end con interés en aprender ciber seguridad
-![Desarrollador Back end con interés en aprender ciber seguridad]
+
 
 
 Ingeniero en Informática con una sólida formación en desarrollo de aplicaciones y administración de sistemas, avalada por experiencia práctica en proyectos reales. Me destaco por un enfoque proactivo en la resolución de problemas y una capacidad comprobada para trabajar eficazmente en equipo. Busco integrarme a una organización dinámica donde pueda aplicar mis conocimientos y habilidades técnicas para contribuir al éxito del equipo y enfrentar nuevos desafíos profesionales.
