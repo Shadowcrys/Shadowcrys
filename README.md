@@ -11,7 +11,7 @@ Skills: Python / Django / SpringBoot / C# / Weka / PowerBI / Excel
 - 🌱 I’m currently learning Java 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shadowcrys)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cristopher-mardones-a602a4245/)  
+
 
 
 
