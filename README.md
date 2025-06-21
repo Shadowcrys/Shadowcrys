@@ -9,7 +9,7 @@ Skills: Python / Django / SpringBoot / C# / Weka / PowerBI / Excel
 
 - 🔭 I’m currently working on adquiring experience
 - 🌱 I’m currently learning JavaScript
-- 
+  
 
 
 
