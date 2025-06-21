@@ -8,7 +8,8 @@ Computer Engineer with a solid background in application development and systems
 Skills: Python / Django / SpringBoot / C# / Weka / PowerBI / Excel 
 
 - 🔭 I’m currently working on adquiring experience
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning JavaScript
+- 
 
 
 
