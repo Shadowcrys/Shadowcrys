@@ -35,5 +35,5 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 
 ### 📫 ¿Conectamos?
 
-- **LinkedIn:** `[Tu Nombre en LinkedIn](URL_de_tu_perfil_de_LinkedIn)`
-- **Correo Electrónico:** `tu.correo@ejemplo.com`
+- **LinkedIn:** `[Cristopher Mardones](https://www.linkedin.com/in/cristopher-mardones-a602a4245/)`
+- **Correo Electrónico:** `cris.mardones10@gmail.com`
